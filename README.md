@@ -27,7 +27,7 @@ This project is a simple **Pizza Bill Generator** built entirely with **Core Jav
 
 
 ## Technologies Used
-
+- **IDE**: Apache NetBeans IDE 22.
 -   **Java**: Version 8 and higher.
 -   **Core Java** and **OOP Principles**.
 
